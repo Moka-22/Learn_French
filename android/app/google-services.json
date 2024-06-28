@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636182048115",
+    "project_id": "learn-french-with-msu-ibrahim",
+    "storage_bucket": "learn-french-with-msu-ibrahim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636182048115:android:7f9cd4a7180919a30ca906",
+        "android_client_info": {
+          "package_name": "com.example.learnfrenchwithmsuibrahim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTXkVSZ0btYDwTadI1YSk3hikQU3sAxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
